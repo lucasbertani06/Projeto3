@@ -1,1 +1,8 @@
 Nome: Lucas Bertani
+Descrição: Estudante de ADS
+
+Nome: Jefferson Brito
+Descrição: Estudante de ADS
+
+Nome: Mateus Trevizan
+Descrição: Estudante de ADS
